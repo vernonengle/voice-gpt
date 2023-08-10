@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### local keys ###
+src/main/resources/ai-chat-380801-3017f46ffb30.json
